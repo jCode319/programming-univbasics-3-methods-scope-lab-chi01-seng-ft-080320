@@ -15,5 +15,6 @@ def link
 end
 
 def all_phrases
-  puts = "#{'mario'}, {'toadstool'}, {'link'}"
+  all_phrases = "#{'mario'}, {'toadstool'}, {'link'}"
+  puts all_phrases
 end 
