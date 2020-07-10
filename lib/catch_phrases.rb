@@ -17,4 +17,4 @@ end
 def all_phrases
   all_phrases = 'mario'
   puts all_phrases
-end 
+end
